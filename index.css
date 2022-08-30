@@ -1,0 +1,28 @@
+body {
+  font-size:20px; 
+  text-align: center;
+  background: #afe2f3; 
+  
+}
+
+
+
+#btn{
+  min-height: 300px;           
+  border: 1px solid black; 
+  border-radius: 10px;
+  background: #5dc7ea;    
+
+}
+
+
+.form_btn {
+  border: none;
+  padding: 10px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background .3s;
+  border-radius: 5px;
+  text-aling: center;
+  align-items: center;
+  justify-content: center;

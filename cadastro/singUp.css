@@ -1,0 +1,44 @@
+body {
+  font-size:20px; 
+  text-align: center;
+  background: #afe2f3; 
+  
+}
+
+.formCamp {      
+  border: 1px solid black; 
+  border-radius: 10px;
+  background: #d0e1e7; 
+}
+
+#camp {
+  min-height: 300px;           
+  border: 1px solid black; 
+  border-radius: 10px;
+  background: #5dc7ea;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 100;
+  
+  
+}
+
+#btn {
+  text-align: center;
+  justify-content: center; 
+  min-height: 30px;
+  display: flex;
+}
+
+#enviar {
+  border: none;
+  padding: 10px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background .3s;
+  border-radius: 5px;
+}
+
+
